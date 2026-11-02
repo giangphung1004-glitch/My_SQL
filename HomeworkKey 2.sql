@@ -1,5 +1,3 @@
--- ĐÁP ÁN BÀI TẬP VỀ NHÀ BUỔI 2 
-
 -- 1. Learning Objectives (Mục tiêu học tập)
 /*
 - Sử dụng thành thạo WHERE, AND, OR, NOT, IN, BETWEEN, LIKE, IS NULL.
