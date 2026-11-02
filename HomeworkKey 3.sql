@@ -1,5 +1,3 @@
--- ĐÁP ÁN BÀI TẬP VỀ NHÀ BUỔI 3
-
 -- 1. Learning Objectives (Mục tiêu học tập)
 /*
     Hiểu bản chất JOIN: INNER / LEFT / RIGHT / FULL.
