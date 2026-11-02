@@ -1,5 +1,3 @@
--- ĐÁP ÁN BÀI TẬP VỀ NHÀ BUỔI 4
-
 -- 1. Learning Objectives (Mục tiêu học tập)
 /*
     Hiểu sâu bản chất của JOIN và các loại JOIN
