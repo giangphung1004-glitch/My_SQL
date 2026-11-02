@@ -1,5 +1,3 @@
--- ĐÁP ÁN BÀI TẬP VỀ NHÀ BUỔI 5
-
 -- 1. Learning Objectives (Mục tiêu học tập)
 /*
     Sử dụng các hàm tổng hợp: COUNT, SUM, AVG, MIN, MAX.
