@@ -1,5 +1,3 @@
--- ĐÁP ÁN BÀI TẬP VỀ NHÀ BUỔI 1 
-
 -- 1. Learning Objectives (Mục tiêu học tập)
 /*
 - Hiểu cấu trúc Server → Database → Schema → Table → Columns/Rows.
